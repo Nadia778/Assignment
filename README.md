@@ -1,2 +1,2 @@
-# Bolt-Test-Task
+# Bolt Test Task
 Author: Nadiia Danylyshyn
